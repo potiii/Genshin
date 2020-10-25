@@ -1,0 +1,69 @@
+{
+  "Reality": 5,
+  "Option": {
+    "MainOption": {
+      "Hp%": 46.6,
+      "Hp": 3780,
+      "Atk%": 46.6,
+      "Atk": 311,
+      "Crit%": 31.1,
+      "CritDmg": 62.2,
+      "Guard%": 58.3,
+      "Elem": 187,
+      "ElemEffi": 51.8,
+      "ElemDmgBuff": 46.6,
+      "PhysDmgBuff": 58.3,
+      "HealBuff": 35.9
+    },
+    "SubOption": {
+      "low": {
+        "Hp%": 4.1,
+        "Hp": 209,
+        "Atk%": 4.1,
+        "Atk": 14,
+        "Crit%": 2.7,
+        "CritDmg": 5.4,
+        "Guard%": 5.1,
+        "Elem": 16,
+        "ElemEffi": 4.5,
+        "Guard": 16
+      },
+      "Medium": {
+        "Hp%": 4.7,
+        "Hp": 239,
+        "Atk%": 4.7,
+        "Atk": 16,
+        "Crit%": 3.1,
+        "CritDmg": 6.2,
+        "Guard%": 5.8,
+        "Elem": 19,
+        "ElemEffi": 5.2,
+        "Guard": 19
+      },
+      "High": {
+        "Hp%": 5.3,
+        "Hp": 269,
+        "Atk%": 5.3,
+        "Atk": 18,
+        "Crit%": 3.5,
+        "CritDmg": 7,
+        "Guard%": 6.6,
+        "Elem": 21,
+        "ElemEffi": 5.8,
+        "Guard": 21
+      },
+      "VeryHigh": {
+        "Hp%": 5.8,
+        "Hp": 299,
+        "Atk%": 5.8,
+        "Atk": 19,
+        "Crit%": 3.9,
+        "CritDmg": 7.8,
+        "Guard%": 7.3,
+        "Elem": 23,
+        "ElemEffi": 6.5,
+        "Guard": 23
+      }
+    }
+  }
+}
